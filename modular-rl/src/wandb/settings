@@ -1,0 +1,5 @@
+[default]
+entity = lancecrazy
+project = amorpheus
+base_url = https://api.wandb.ai
+

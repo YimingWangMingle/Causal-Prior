@@ -1,0 +1,5 @@
+[default]
+entity = lance_ming
+project = amorpheus
+base_url = https://api.wandb.ai
+
